@@ -37,7 +37,10 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">About</a>
+                        <a class="nav-link" href="About.aspx">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="member.aspx">會員</a>
                     </li>
                 </ul>
             </div>
